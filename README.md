@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Samy</h1>
 
 - 🌱 I’m currently learning **reverse engineering**
-- 💬 Ask me about **DJS D++ SQL TS**
+- 💬 Ask me about **JS, DJS, D++, SQL, TS**
 - ⚡ Fun fact **i'm high asf sometimes**
 
 <div> <a href="https://twitter.com/x64maincpp" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
